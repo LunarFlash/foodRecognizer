@@ -17,6 +17,7 @@
 
 /* Begin PBXFileReference section */
 		9D1475631F5CFE0D00C7AD0F /* FrameExtractor.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FrameExtractor.swift; sourceTree = "<group>"; };
+		9D1475651F5D042700C7AD0F /* food.mlmodel */ = {isa = PBXFileReference; lastKnownFileType = file.mlmodel; name = food.mlmodel; path = ../../../ML/AlexModel/food.mlmodel; sourceTree = "<group>"; };
 		9DEF42331F5C7BCB008ABF58 /* SeeYumYum.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = SeeYumYum.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9DEF42361F5C7BCB008ABF58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9DEF42381F5C7BCB008ABF58 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -56,6 +57,7 @@
 		9DEF42351F5C7BCB008ABF58 /* SeeYumYum */ = {
 			isa = PBXGroup;
 			children = (
+				9D1475651F5D042700C7AD0F /* food.mlmodel */,
 				9DEF42361F5C7BCB008ABF58 /* AppDelegate.swift */,
 				9DEF42381F5C7BCB008ABF58 /* ViewController.swift */,
 				9DEF423A1F5C7BCB008ABF58 /* Main.storyboard */,
