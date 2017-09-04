@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		9D1475641F5CFE0D00C7AD0F /* FrameExtractor.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9D1475631F5CFE0D00C7AD0F /* FrameExtractor.swift */; };
+		9D1475661F5DB5B500C7AD0F /* food.mlmodel in Sources */ = {isa = PBXBuildFile; fileRef = 9D1475651F5D042700C7AD0F /* food.mlmodel */; };
 		9DEF42371F5C7BCB008ABF58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF42361F5C7BCB008ABF58 /* AppDelegate.swift */; };
 		9DEF42391F5C7BCB008ABF58 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9DEF42381F5C7BCB008ABF58 /* ViewController.swift */; };
 		9DEF423C1F5C7BCB008ABF58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9DEF423A1F5C7BCB008ABF58 /* Main.storyboard */; };
@@ -140,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9D1475661F5DB5B500C7AD0F /* food.mlmodel in Sources */,
 				9DEF42391F5C7BCB008ABF58 /* ViewController.swift in Sources */,
 				9DEF42371F5C7BCB008ABF58 /* AppDelegate.swift in Sources */,
 				9D1475641F5CFE0D00C7AD0F /* FrameExtractor.swift in Sources */,
